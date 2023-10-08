@@ -7,7 +7,8 @@ import { getLoginQrCKey } from './api';
 
 console.log(process.env.NODE_ENV);
 
-const a = 59;
+const b = 591;
+console.log(b);
 
 function App() {
   const fn = () => {

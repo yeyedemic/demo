@@ -21,9 +21,6 @@
     "lint": "npx eslint --fix",
     "prepare": "husky install"
   },
-  "lint-staged": {
-    "*.{js,jsx,ts,tsx}": "npx eslint --fix"
-  },
   "eslintConfig": {
     "extends": [
       "react-app",
